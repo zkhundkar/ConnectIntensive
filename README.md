@@ -10,28 +10,28 @@ The master schedule can be found [here](https://docs.google.com/document/d/1iCnz
 
   Notebooks for Sessions 1-5 are [here](https://github.com/tccorcoran/Connect)
 
-- #### Session 6 [November 19](session_06.md)
-- #### Session 7 [December 03](session_07.md)
-- #### Session 8 [December 10]
-- #### Session 9 [December 17]
+- Session 6 [November 19](session_06.md) 
+- Session 7 [December 03](session_07.md) 
+- Session 8 [December 10]
+- Session 9 [December 17]
 
-- #### Session 10 [January 07]
-- #### Session 11 [January 14]
-- #### Session 12 [January 21]
-- #### Session 13 [January 28]
+- Session 10 [January 07]
+- Session 11 [January 14]
+- Session 12 [January 21]
+- Session 13 [January 28]
 
 
 ## Recommended Project "Due" dates
 
- |  Project  |  Description  | Due Date 
- | ----- | ------ | ------ |
- | _Optional_ | _Data Exploration -- Titanic Survival_ | _November 5_
- | _Project 1_ | _Model Validation -- Predict Boston Housing Prices_ | _November 12_ 
- | **Project 2** | **Supervised Learning -- Student Intervention System** | **Nov 27/December 3 **
- | Project 3 | Unsupervised Learning -- Finding Customer Segments | December 10
- | Project 4 | Reinforcement Learning -- Train a Smartcab | December 24/31
- | Capstone A  | Proposal | January 10 
- | Capstone B | Capstone Project Report | January 21
+   Project  |  Description  | Due Date 
+  ----- | ------ | ------ |
+  _Optional_ | _Data Exploration -- Titanic Survival_ | _November 5_
+  _Project 1_ | _Model Validation -- Predict Boston Housing Prices_ | _November 12_ 
+  **Project 2** | **Supervised Learning -- Student Intervention System** | **Nov 27/December 3 **
+  Project 3 | Unsupervised Learning -- Finding Customer Segments | December 10
+  Project 4 | Reinforcement Learning -- Train a Smartcab | December 24/31
+  Capstone A  | Proposal | January 10 
+  Capstone B | Capstone Project Report | January 21
 
 ## Touchback Policy ##
 If you are enrolled in the ConnectIntensive session for Fall 2016, please send me updates through Slack twice a week, by the end of day Sunday and Wednesday. Your message should include two or three items:
