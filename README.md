@@ -64,9 +64,9 @@ If you are not enrolled but wish to take a closer look at the  materials here, p
 ## Additional Resources ##
 
 #### Links to repos of other session leads ####
-  [Thomas Corcoran](https://github.com/tccorcoran/Connect)
-  [Nick Hoh](https://github.com/NickyPie/Connect)
+  - [Thomas Corcoran](https://github.com/tccorcoran/Connect)
+  - [Nick Hoh](https://github.com/NickyPie/ConnectIntensive)
   
 #### Resources related to Udacity and ML ND ####
-  [MLND projects](https://github.com/udacity/machine-learning)
-  [Deep Learning](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/udacity) - the link to the online class is [here](https://www.udacity.com/course/deep-learning--ud730)
+ - [MLND projects](https://github.com/udacity/machine-learning)
+ - [Deep Learning](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/udacity) - the link to the online class is [here](https://www.udacity.com/course/deep-learning--ud730)
