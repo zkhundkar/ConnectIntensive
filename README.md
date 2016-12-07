@@ -27,8 +27,8 @@ The master schedule can be found [here](https://docs.google.com/document/d/1iCnz
   ----- | ------ | ------ |
   _Optional_ | _Data Exploration -- Titanic Survival_ | _November 5_
   _Project 1_ | _Model Validation -- Predict Boston Housing Prices_ | _November 12_ 
-  **Project 2** | **Supervised Learning -- Student Intervention System** | **Nov 27/December 3 **
-  Project 3 | Unsupervised Learning -- Finding Customer Segments | December 10
+  _Project 2_ | _Supervised Learning -- Student Intervention System_ | _Nov 27/December 3_
+  ** Project 3 ** | ** Unsupervised Learning -- Finding Customer Segments ** | ** December 10 **
   Project 4 | Reinforcement Learning -- Train a Smartcab | December 24/31
   Capstone A  | Proposal | January 10 
   Capstone B | Capstone Project Report | January 21
