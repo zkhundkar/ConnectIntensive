@@ -10,9 +10,9 @@ The master schedule can be found [here](https://docs.google.com/document/d/1iCnz
 
   Notebooks for Sessions 1-5 are [here](https://github.com/tccorcoran/Connect)
 
-- Session 6 [November 19](session_06.md) 
+- Session 6 [November 19](session-06.md) 
 - Session 7 [December 03](session_07.md) 
-- Session 8 [December 10]
+- Session 8 [December 10](session-08.md)
 - Session 9 [December 17]
 
 - Session 10 [January 07]
