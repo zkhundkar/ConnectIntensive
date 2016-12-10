@@ -9,6 +9,7 @@
      - Reinforcement Learning: Reinforcement Learning
      - Reinforcement Learning: Game Theory
      - Smartcab project review
+     - Preliminary Ideas for Capstone 
  - Present where we are in the Connect Intensive schedule
  - Students should have submitted/completed unsupervised learning project by this weeken
 
@@ -24,10 +25,9 @@
 - Questions that came up 
 - Walk through solutions and discussion
 
-#### 11:30 - noonInstalling pygame and verifying installation
+#### 11:30 - noon Installing pygame and verifying installation
  - overview of project
  - Highlight Sections that require students to apply their intuition
-
 
 
 #### noon - 1:00pm Lunch break

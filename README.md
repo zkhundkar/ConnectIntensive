@@ -10,15 +10,15 @@ The master schedule can be found [here](https://docs.google.com/document/d/1iCnz
 
   Notebooks for Sessions 1-5 are [here](https://github.com/tccorcoran/Connect)
 
-- Session 6 [November 19](session-06.md) 
-- Session 7 [December 03](session_07.md) 
-- Session 8 [December 10](session-08.md)
-- Session 9 [December 17]
+- #### Session 6 [November 19](session_06.md)
+- #### Session 7 [December 03](session_07.md)
+- #### Session 8 [December 10](session-08.md)
+- #### Session 9 [December 17]
 
-- Session 10 [January 07]
-- Session 11 [January 14]
-- Session 12 [January 21]
-- Session 13 [January 28]
+- #### Session 10 [January 07]
+- #### Session 11 [January 14]
+- #### Session 12 [January 21]
+- #### Session 13 [January 28]
 
 
 ## Recommended Project "Due" dates
@@ -70,3 +70,22 @@ If you are not enrolled but wish to take a closer look at the  materials here, p
 #### Resources related to Udacity and ML ND ####
  - [MLND projects](https://github.com/udacity/machine-learning)
  - [Deep Learning](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/udacity) - the link to the online class is [here](https://www.udacity.com/course/deep-learning--ud730)
+
+#### Other online lectures on the web ####
+
+- General Machine Learning
+    - [Nando de Freitas, Oxford University](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/) The link is to a website for a class on Machine Learning (including deep learning) taught by Nando de Freitas. There are slides, and links to YouTube videos. The videos are full-length ($ \approx $ 1 hr) and there are many of them, so not a quick introduction. If you have the time, could help cement some of the concepts you are learning in the ML ND.
+    
+- Deep Learning
+    - [Fei-Fei-Li, Stanford University](https://www.youtube.com/watch?v=g-PvXUjD6qg&list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA)
+    The link is to the first video lecture; there are quite  a few more. This is a class on using Deep Learning for Image Recognition (CS231n). The schedule for the course (Winter 2016. so almost a year ago) is [here](http://cs231n.stanford.edu/syllabus.html)
+    
+- Reinforcement Learning
+    - [David Silver, Oxford University](https://www.youtube.com/watch?v=2pWv7GOvuf0&index=1&list=PLMZdRRhAoLnKFxZlmFoFp0uHVvN2PSE9T)
+ This is a set of video lectures on Reinforcement Learning by D Silver (thanks Nick!) available on Youtube that give a broader introduction to the subject. There are 10 lectures, 1.5 hrs each. If you want to learn more about RL, this may be a good place to start. There is also a website with the slides from the videos [here](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
+
+
+
+```python
+
+```
