@@ -10,15 +10,15 @@ The master schedule can be found [here](https://docs.google.com/document/d/1iCnz
 
   Notebooks for Sessions 1-5 are [here](https://github.com/tccorcoran/Connect)
 
-- #### Session 6 [November 19](session_06.md)
-- #### Session 7 [December 03](session_07.md)
-- #### Session 8 [December 10](session-08.md)
-- #### Session 9 [December 17]
+- _Session 6 [November 19](session_06.md)_
+- _Session 7 [December 03](session_07.md)_
+- _Session 8 [December 10](session-08.md)_
+- ** Session 9 [December 17] **
 
-- #### Session 10 [January 07]
-- #### Session 11 [January 14]
-- #### Session 12 [January 21]
-- #### Session 13 [January 28]
+-  Session 10 [January 07]
+-  Session 11 [January 14]
+-  Session 12 [January 21]
+-  Session 13 [January 28]
 
 
 ## Recommended Project "Due" dates
@@ -35,9 +35,9 @@ The master schedule can be found [here](https://docs.google.com/document/d/1iCnz
 
 ## Touchback Policy ##
 If you are enrolled in the ConnectIntensive session for Fall 2016, please send me updates through Slack twice a week, by the end of day Sunday and Wednesday. Your message should include two or three items:
-1. Which of your goals (MLND) for “today”  did you meet? If you didn’t get to some of the goals you set or didn’t complete them, please include any progress you made 
-2. What do you expect to complete by the next touchback date? This should be specific, prioritized and realistic. It is perfectly fine to say that you don’t plan to spend any significant time on the MLND program for whatever reason. Think of it as a contract with yourself (I’m just a witness, not a judge or gatekeeper).
-3. If you have questions or are stuck on something,tell me some of the specifics and I will try to help you resolve them. If this is your first time checking in with me please also let me know the official MLND projects you have submitted so far. If you have sent me a Slack status update previously, you can indicate a target date for your next submission.
+- 1. Which of your goals (MLND) for “today”  did you meet? If you didn’t get to some of the goals you set or didn’t complete them, please include any progress you made 
+- 2. What do you expect to complete by the next touchback date? This should be specific, prioritized and realistic. It is perfectly fine to say that you don’t plan to spend any significant time on the MLND program for whatever reason. Think of it as a contract with yourself (I’m just a witness, not a judge or gatekeeper).
+- 3. If you have questions or are stuck on something,tell me some of the specifics and I will try to help you resolve them. If this is your first time checking in with me please also let me know the official MLND projects you have submitted so far. If you have sent me a Slack status update previously, you can indicate a target date for your next submission.
 
 
 ## Requirements ##
