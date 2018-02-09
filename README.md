@@ -1,43 +1,47 @@
 
 # ConnectIntensive
 
+This is a collections of resources (mostly ipython/jupyter notebooks) for the SJC Feb 2018 ConnectIntensive MLND session.
 
-This is a collections of resources (mostly ipython/jupyter notebooks) for one of the ConnectIntensive MLND sessions. 
-
-The master schedule can be found [here](https://docs.google.com/document/d/1iCnzoKpvrV5skA-KaNpzfqJ8u1wJMiTA8G4iyiNT-0o/pub?embedded=true)
+The master schedule can be found [here](https://docs.google.com/document/d/11bddE-iSeUJiYfQRCgj2OwzNZENmGI_oT8wNNYxtk90/edit#heading=h.fesovdyw23l6)
 
 ## Lesson Plans
 
-  Notebooks for Sessions 1-5 are [here](https://github.com/tccorcoran/Connect)
+ - Session 1 [February 10, 2018]
+ - no session [February 17, 2018] - President's Day
+ - Session 2 [February 24, 2018]
+ - Session 3 [March 3, 2018]
+ - Session 4 [March 10, 2018]
+ - Session 5 [March 17, 2018]
+ - Session 6 [March 24, 2018]
+ - no Session [March 31, 2018]	- Easter
+ - Session 7 [April 7, 2018]
+ - Session 8 [April 14, 2018]
+ - Session 9 [April 21, 2018]
+ - Session 10 [April 28, 2018]
+ - Session 11 [May 5, 2018]
+ - Session 12 [May 12, 2018]
+ - Session 13 [May 19, 2018]
+ - no Session 1 [May 26, 2018] - Memorial Day
+ - Session 11 [June 2, 2018]
+ - Session 12 [June 9, 2018]
+ - Session 11 [June 16, 2018]
 
-- _Session 6 [November 19](session_06.md)_
-- _Session 7 [December 03](session_07.md)_
-- _Session 8 [December 10](session-08.md)_
-- ** Session 9 [December 17] **
 
--  Session 10 [January 07]
--  Session 11 [January 14]
--  Session 12 [January 21]
--  Session 13 [January 28]
+## Recommended Project Completion dates
 
-
-## Recommended Project "Due" dates
-
-   Project  |  Description  | Due Date 
+   Project  |  Description  | Due Date (Pass before)
   ----- | ------ | ------ |
-  _Optional_ | _Data Exploration -- Titanic Survival_ | _November 5_
-  _Project 1_ | _Model Validation -- Predict Boston Housing Prices_ | _November 12_ 
-  _Project 2_ | _Supervised Learning -- Student Intervention System_ | _Nov 27/December 3_
-  ** Project 3 ** | ** Unsupervised Learning -- Finding Customer Segments ** | ** December 10 **
-  Project 4 | Reinforcement Learning -- Train a Smartcab | December 24/31
-  Capstone A  | Proposal | January 10 
-  Capstone B | Capstone Project Report | January 21
+  Optional | Data Exploration -- Titanic Survival | February 17
+  Project 1 | Model Validation -- Predict Boston Housing Prices | March 10_ 
+  Project 2 | Supervised Learning -- Finding Donors for ML Charity | March 24
+  Project 3 | Unsupervised Learning -- Finding Customer Segments | April 7
+  Project 4 | Reinforcement Learning -- Train a Smartcab | April 30
+  Project 5 | Deep Learning -- Dog-Breed Classifier | May 14
+  Capstone A  | Proposal | May 21 
+  Capstone B | Capstone Project Report Presentations | June 16
 
 ## Touchback Policy ##
-If you are enrolled in the ConnectIntensive session for Fall 2016, please send me updates through Slack twice a week, by the end of day Sunday and Wednesday. Your message should include two or three items:
-- 1. Which of your goals (MLND) for “today”  did you meet? If you didn’t get to some of the goals you set or didn’t complete them, please include any progress you made 
-- 2. What do you expect to complete by the next touchback date? This should be specific, prioritized and realistic. It is perfectly fine to say that you don’t plan to spend any significant time on the MLND program for whatever reason. Think of it as a contract with yourself (I’m just a witness, not a judge or gatekeeper).
-- 3. If you have questions or are stuck on something,tell me some of the specifics and I will try to help you resolve them. If this is your first time checking in with me please also let me know the official MLND projects you have submitted so far. If you have sent me a Slack status update previously, you can indicate a target date for your next submission.
 
 
 ## Requirements ##
@@ -56,17 +60,13 @@ Please verify that these libraries are installed in your local python environmen
 
 ## Usage Terms ##
 
-If you are enrolled in the Fall 2016 session of ConnectIntensive MLND, you may download or clone the repository for your use.
+If you are enrolled in the Feb 2018 session of ConnectIntensive MLND, you may download or clone the repository for your use.
 
 If you are not enrolled but wish to take a closer look at the  materials here, please send me an [email](emailto:lkhundkar@gmail.com) telling me who you are and your reason for requesting access to these materials. 
 
 
 ## Additional Resources ##
 
-#### Links to repos of other session leads ####
-  - [Thomas Corcoran](https://github.com/tccorcoran/Connect)
-  - [Nick Hoh](https://github.com/NickyPie/ConnectIntensive)
-  
 #### Resources related to Udacity and ML ND ####
  - [MLND projects](https://github.com/udacity/machine-learning)
  - [Deep Learning](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/udacity) - the link to the online class is [here](https://www.udacity.com/course/deep-learning--ud730)
@@ -74,11 +74,11 @@ If you are not enrolled but wish to take a closer look at the  materials here, p
 #### Other online lectures on the web ####
 
 - General Machine Learning
-    - [Nando de Freitas, Oxford University](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/) The link is to a website for a class on Machine Learning (including deep learning) taught by Nando de Freitas. There are slides, and links to YouTube videos. The videos are full-length ($ \approx $ 1 hr) and there are many of them, so not a quick introduction. If you have the time, could help cement some of the concepts you are learning in the ML ND.
+    - [Nando de Freitas, Oxford University](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/) The link is to a website for a class on Machine Learning (including deep learning) taught by Nando de Freitas. There are slides, and links to YouTube videos. The videos are full-length (ca. 1 hr) and there are many of them, so not a quick introduction. If you have the time, could help cement some of the concepts you are learning in the ML ND.
     
 - Deep Learning
     - [Fei-Fei-Li, Stanford University](https://www.youtube.com/watch?v=g-PvXUjD6qg&list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA)
-    The link is to the first video lecture; there are quite  a few more. This is a class on using Deep Learning for Image Recognition (CS231n). The schedule for the course (Winter 2016. so almost a year ago) is [here](http://cs231n.stanford.edu/syllabus.html)
+    The link is to the first video lecture; there are quite  a few more. This is a class on using Deep Learning for Image Recognition (CS231n). The schedule for the course (Winter 2016. so a bit dated, but excellent content) is [here](http://cs231n.stanford.edu/syllabus.html)
     
 - Reinforcement Learning
     - [David Silver, Oxford University](https://www.youtube.com/watch?v=2pWv7GOvuf0&index=1&list=PLMZdRRhAoLnKFxZlmFoFp0uHVvN2PSE9T)
