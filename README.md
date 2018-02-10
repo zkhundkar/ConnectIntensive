@@ -3,11 +3,11 @@
 
 This is a collections of resources (mostly ipython/jupyter notebooks) for the SJC Feb 2018 ConnectIntensive MLND session.
 
-The master schedule can be found [here](https://docs.google.com/document/d/11bddE-iSeUJiYfQRCgj2OwzNZENmGI_oT8wNNYxtk90/edit#heading=h.fesovdyw23l6)
+The master schedule can be found [here](./MLND_ Feb 10 '18 Weekly Schedule.pdf)
 
 ## Lesson Plans
 
- - Session 1 [February 10, 2018]
+ - ** Session 1 [February 10, 2018] **
  - no session [February 17, 2018] - President's Day
  - Session 2 [February 24, 2018]
  - Session 3 [March 3, 2018]
@@ -30,19 +30,19 @@ The master schedule can be found [here](https://docs.google.com/document/d/11bdd
 
 ## Recommended Project Completion dates
 
-   Project  |  Description  | Due Date (Pass before)
+   Project  |  Description  | Due Date (Official) | Suggested (Submit or Pass)
   ----- | ------ | ------ |
-  Optional | Data Exploration -- Titanic Survival | February 17
-  Project 1 | Model Validation -- Predict Boston Housing Prices | March 10_ 
-  Project 2 | Supervised Learning -- Finding Donors for ML Charity | March 24
-  Project 3 | Unsupervised Learning -- Finding Customer Segments | April 7
-  Project 4 | Reinforcement Learning -- Train a Smartcab | April 30
-  Project 5 | Deep Learning -- Dog-Breed Classifier | May 14
-  Capstone A  | Proposal | May 21 
-  Capstone B | Capstone Project Report Presentations | June 16
+  Optional | Data Exploration -- Titanic Survival | _none_ | February 17
+  Project 1 | Model Validation -- Predict Boston Housing Prices | March 10 | March 3 
+  Project 2 | Supervised Learning -- Finding Donors for ML Charity | March 24 | March 24
+  Project 3 | Unsupervised Learning -- Finding Customer Segments | April 14 | April 7
+  Project 4 | Reinforcement Learning -- Train a Smartcab | April 28 | April 28
+  Project 5 | Deep Learning -- Dog-Breed Classifier | May 19 | May 12
+  Capstone A  | Proposal | June 2 | May 21 
+  Capstone B | Capstone Project Report Presentations | June 16 | June 16
 
 ## Touchback Policy ##
-
+TBD
 
 ## Requirements ##
 
