@@ -31,7 +31,7 @@ The master schedule can be found [here](./MLND_ Feb 10 '18 Weekly Schedule.pdf)
 ## Recommended Project Completion dates
 
    Project  |  Description  | Due Date (Official) | Suggested (Submit or Pass)
-  ----- | ------ | ------ |
+  ----- | ------ | ------ | ----------- |
   Optional | Data Exploration -- Titanic Survival | _none_ | February 17
   Project 1 | Model Validation -- Predict Boston Housing Prices | March 10 | March 3 
   Project 2 | Supervised Learning -- Finding Donors for ML Charity | March 24 | March 24
