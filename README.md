@@ -9,9 +9,9 @@ The master schedule can be found [here](./MLND_ Feb 10 '18 Weekly Schedule.pdf)
 
  - Session 1 [February 10, 2018] 
  - no session [February 17, 2018] - President's Day
- - ** Session 2 [February 24, 2018] **
+ - Session 2 [February 24, 2018] 
  - Session 3 [March 3, 2018]
- - Session 4 [March 10, 2018]
+ - ** Session 4 [March 10, 2018] **
  - Session 5 [March 17, 2018]
  - Session 6 [March 24, 2018]
  - no Session [March 31, 2018]	- Easter
@@ -33,7 +33,7 @@ The master schedule can be found [here](./MLND_ Feb 10 '18 Weekly Schedule.pdf)
    Project  |  Description  | Due Date (Official) | Suggested (Submit or Pass)
   ----- | ------ | ------ | ----------- |
   _Optional_ | _Data Exploration -- Titanic Survival_ | _none_ | _February 17_
-  Project 1 | Model Validation -- Predict Boston Housing Prices | March 10 | * March 3 *
+  _Project 1 | Model Validation -- Predict Boston Housing Prices | March 10 |  March 3_
   Project 2 | Supervised Learning -- Finding Donors for ML Charity | March 24 | March 24
   Project 3 | Unsupervised Learning -- Finding Customer Segments | April 14 | April 7
   Project 4 | Reinforcement Learning -- Train a Smartcab | April 28 | April 28
